@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-First work hor GoIT 2023
+First work for GoIT 2023
